@@ -1,0 +1,8 @@
+mbongeni;password;100;6:
+amaan;password1;50;5:
+haseeb;password2;10;4:
+naqueeb;passsword3;20;5:
+luke;password4;10;6:
+chloe;password5;10;7:
+a;;100;5:
+
